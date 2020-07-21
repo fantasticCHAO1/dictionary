@@ -1,0 +1,1 @@
+{"from":"en","to":"zh","trans_result":[{"src":"Marvel","dst":"\u5947\u8ff9"}]}}
